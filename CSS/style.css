@@ -1,0 +1,13 @@
+body {      
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    padding: 20px;
+}
+h1{
+    color: blue;
+    text-align:center;
+}
+p{ 
+    line-height: 1.6;
+    max-width: 700px;  
+}
